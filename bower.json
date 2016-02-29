@@ -6,3 +6,4 @@
   },
   "ignore"        : ["docs", "examples", "test", "*.yml", "*.html", "*.ico", "*.md", "CNAME", ".*", "karma.*", "package.json"]
 }
+ 
